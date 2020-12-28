@@ -19,7 +19,7 @@
 
 
 **🌈 Languages and Tools:**
-
+***
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
