@@ -2,8 +2,8 @@
 
 * 🖥  I'm product developer and technical writer based in Beijing, China.
 * 🔍 I'm currently looking for remote work.
-* 💼 Previously, I was working at <a href="https://github.com/douban" target="_blank">@Douban</a>
-* ✍️  I wrote dev articles on <a href="https://www.dongwm.com" target="_blank">My Blog</a>
+* 💼 Previously, I was working at <a href="https://netflav.com" target="_blank">@Netflix</a>
+* ✍️  I wrote dev articles on <a href="https://netflav.com" target="_blank">My Blog</a>
 * 🧐 I'm Interested in full stack. Recent focus on backend.
 * 🎮 I'm a console game fan and I have played many <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/ps4.svg" alt="ps4" width="20" height="20"/> and <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/nintendoswitch.svg" alt="switch" width="20" height="20"/>  games.
 
