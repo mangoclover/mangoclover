@@ -1,4 +1,10 @@
 **👋 Hello, folks! :**
+<p>
+  <img width="200" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif" >
+</p>
+
+
+
 
 * 🖥  I'm product developer and technical writer based in Beijing, China.
 * 🔍 I'm currently looking for remote work.
