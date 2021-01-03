@@ -1,7 +1,7 @@
 # **👋 𝗛𝗲𝗹𝗹𝗼, 𝗳𝗼𝗹𝗸𝘀! :**
 ***
 <p>
-  <img width="200" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif" >
+  <img width="220" alt="hello!" align="left" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif" >
 </p>
 
 - 🏢 I'm currently working at <a href="https://netflav.com" target="_blank">𝗡𝗲𝘁𝗳𝗹𝗶𝘅</a>
